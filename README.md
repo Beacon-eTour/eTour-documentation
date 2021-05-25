@@ -40,4 +40,4 @@ eTour was created as a LUT University course project. LUT University (Lappeenran
 ## Contact
 
 We are very interested to hear that kind of projects eTour has been used for and how it has been further developed. Send news or questions to us at:
-beacon.etour@gmail.com
+beacon.etour[at]gmail.com. Important: mention **eTour** in the topic, when you send us e-mail, thank you!
