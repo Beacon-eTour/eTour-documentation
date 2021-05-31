@@ -20,8 +20,10 @@ eTour has two mobile applications with iOS and Android operating systems. Backen
 
 ![Functional view.](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/eTour_functional-view.png "Functional view.")
 
-![Sequence diagram.](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/eTour_sequence-diagram.png "Sequence diagram")
+`Figure 1: Functional view of eTour app`
 
+![Sequence diagram.](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/eTour_sequence-diagram.png "Sequence diagram")
+`Figure 2: Sequence diagram of eTour app`
 # UI
 
 Coming up: user Interface examples (mockups) for mobile applications, tours and menus.
