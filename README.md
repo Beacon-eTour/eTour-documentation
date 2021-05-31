@@ -30,16 +30,18 @@ Coming up: user Interface examples (mockups) for mobile applications, tours and 
 
 # Creators of eTour
 
-* Juho Kontiainen		 
-* Mahyar Mohammadi	 
-* Loan Ngo 			 
-* Piret Niva			 
-* Topi Penttilä
-* Riina Purovesi
+eTour Creator | GitHub Profile
+------------ | -------------
+Topi Penttilä | Dobbe
+Riina Purovesi | riinapurovesi
+Piret Niva | pitjazz
+Mahyar Mohammadi | Mahyar1982
+Juho Kontiainen | juhokon
+Loan Ngo | loanindev
+
 
 eTour was created as a LUT University course project. LUT University (Lappeenranta-Lahti University of Technology LUT) was established in 1969 in Finland. Creators of eTour are master students at Lahti in LUT School of Engineering Science.
 
 ## Contact
 
-We are very interested to hear that kind of projects eTour has been used for and how it has been further developed. Send news or questions to us at:
-beacon.etour[at]gmail.com. Important: mention **eTour** in the topic, when you send us e-mail, thank you!
+We are very interested to hear that kind of projects eTour has been used for and how it has been further developed. Send news or questions to us at via GitHub or beacon.etour[at]gmail.com.
