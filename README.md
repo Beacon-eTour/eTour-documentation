@@ -44,12 +44,14 @@ eTour was created as a LUT University course project. LUT University (Lappeenran
 
 ## Contact
 
-We are very interested to hear that kind of projects eTour has been used for and how it has been further developed. Send news or questions to us at via GitHub or beacon.etour[at]gmail.com.
+We are very interested to hear what kind of projects eTour has been used for and how it has been further developed. Send news or questions to us at:
+beacon.etour[at]gmail.com. 
 
 # User Interface Example
 
-eTour is originally devloped for a customer of the LUT University course project. Anything referring to the customer has been removed from the eTour product. Thus, also from the UI Interface example images below.
+eTour is originally devloped for a customer of the LUT University course project. So references to the customer has been removed from the eTour product. Thus, also from the UI Interface example images below.
 
 Here are sample images of the eTour interface. In further development, the product interface can be modified in the direction desired. We hope that these UI images will provide inspiration and ideas for further development!
 
 ![UI Example](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/UI-1.png "UI Example") ![UI Example](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/UI-2.png "UI Example") ![UI Example](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/UI-3.png "UI Example") ![UI Example](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/UI-4.png "UI Example") ![UI Example](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/UI-5.png "UI Example") ![UI Example](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/UI-6.png "UI Example") ![UI Example](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/UI-7.png "UI Example") ![UI Example](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/UI-8.png "UI Example") ![UI Example](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/UI-9.png "UI Example")
+
