@@ -20,24 +20,38 @@ eTour has two mobile applications with iOS and Android operating systems. Backen
 
 ![Functional view.](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/eTour_functional-view.png "Functional view.")
 
-![Sequence diagram.](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/eTour_sequence-diagram.png "Sequence diagram")
+`Figure 1: Functional view of eTour app`
 
+![Sequence diagram.](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/eTour_sequence-diagram.png "Sequence diagram")
+`Figure 2: Sequence diagram of eTour app`
 # UI
 
 Coming up: user Interface examples (mockups) for mobile applications, tours and menus.
 
 # Creators of eTour
 
-* Juho Kontiainen		 
-* Mahyar Mohammadi	 
-* Loan Ngo 			 
-* Piret Niva			 
-* Topi Penttilä
-* Riina Purovesi
+eTour Creator | GitHub Profile
+------------ | -------------
+Topi Penttilä | Dobbe
+Riina Purovesi | riinapurovesi
+Piret Niva | pitjazz
+Mahyar Mohammadi | Mahyar1982
+Juho Kontiainen | juhokon
+Loan Ngo | loanindev
+
 
 eTour was created as a LUT University course project. LUT University (Lappeenranta-Lahti University of Technology LUT) was established in 1969 in Finland. Creators of eTour are master students at Lahti in LUT School of Engineering Science.
 
 ## Contact
 
 We are very interested to hear what kind of projects eTour has been used for and how it has been further developed. Send news or questions to us at:
-beacon.etour[at]gmail.com. Important: mention **eTour** in the topic, when you send us e-mail, thank you!
+beacon.etour[at]gmail.com. 
+
+# User Interface Example
+
+eTour is originally devloped for a customer of the LUT University course project. So references to the customer has been removed from the eTour product. Thus, also from the UI Interface example images below.
+
+Here are sample images of the eTour interface. In further development, the product interface can be modified in the direction desired. We hope that these UI images will provide inspiration and ideas for further development!
+
+![UI Example](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/UI-1.png "UI Example") ![UI Example](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/UI-2.png "UI Example") ![UI Example](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/UI-3.png "UI Example") ![UI Example](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/UI-4.png "UI Example") ![UI Example](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/UI-5.png "UI Example") ![UI Example](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/UI-6.png "UI Example") ![UI Example](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/UI-7.png "UI Example") ![UI Example](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/UI-8.png "UI Example") ![UI Example](https://github.com/Beacon-eTour/eTour-documentation/blob/main/figures/UI-9.png "UI Example")
+
